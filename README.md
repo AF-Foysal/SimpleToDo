@@ -1,4 +1,4 @@
-# Project 1 - *SimpleToDo*
+# Pre-Work - *SimpleToDo*
 
 **SimpleToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
@@ -32,7 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A challenge that was faced while working on this assignment was the inability to load up the items from a previous instance of using the app.
+The solution was to remove the function, test out the current functions that were already implemented, and if there were not any 
+complications in those functions, the function to load up the items within the list was then implemented back into the app. 
 
 ## License
 
